@@ -16,3 +16,4 @@ cp autostart.sh ~/.config/bspwm
 chmod +x ~/.config/bspwm/autostart.sh
 cp sxhkdrc ~/.config/sxhkd
 chmod 777 ~/.config/sxhkd/sxhkdrc
+'''
