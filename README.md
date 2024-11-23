@@ -9,7 +9,7 @@ Minimum configuration BSPWM and SXHKD. Great base for rising a desktop environme
 
 # Installation
 '''
-mkdir -p ~/.config/{bspwm,sxhkd}
+mkdir -p ~/.config/bspwm ~/.config/sxhkd
 cp bspwmrc ~/.config/bspwm
 chmod 777 ~/.config/bspwm/bspwmrc
 cp autostart.sh ~/.config/bspwm
