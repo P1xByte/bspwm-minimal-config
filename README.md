@@ -8,7 +8,7 @@ Minimum configuration BSPWM and SXHKD. Great base for rising a desktop environme
 - st ([Original](https://st.suckless.org/) or [Flexipatch version](https://github.com/bakkeby/st-flexipatch))
 
 # Installation
-'''console
+'''
 mkdir -p ~/.config/{bspwm,sxhkd}
 cp bspwmrc ~/.config/bspwm
 chmod 777 ~/.config/bspwm/bspwmrc
