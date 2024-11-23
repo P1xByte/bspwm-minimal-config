@@ -1,10 +1,10 @@
 #!/bin/sh
 
 super + {_,shift +}Return
-	{alacritty,bspc node -s biggest.local}
+	{st,bspc node -s biggest.local}
 
 super + d
-	rofi -show drun
+	dmenu_run
 
 super + Escape
 	pkill -USR1 -x sxhkd
